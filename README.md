@@ -1,6 +1,6 @@
 # Consolidating_Employee_Data
 
-This is a project for **Data Preparation** in which the data is obtained from multiple sources such as from different types of files.
+This is a project for `**Data Preparation**` in which the data is obtained from multiple sources such as from different types of files.
 Then the data is loaded and combined using **Join** as well as **Merge** DataFrame functions.
 
 Learning Outcome:
